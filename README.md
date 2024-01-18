@@ -1,0 +1,1 @@
+# Allure-reporting-react-app-integration
